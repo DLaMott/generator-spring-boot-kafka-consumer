@@ -1,6 +1,6 @@
 {
   "name": "generator-spring-boot-kafka-consumer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Yeoman generator for generating a Spring Boot Kafka Consumer",
   "keywords": [
     "yeoman-generator",

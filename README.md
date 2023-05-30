@@ -1,6 +1,8 @@
 # Generator-Spring-Boot
 A Yeoman generator for generating a Spring-Boot Kafka Consumer
 
+npm registry project: [location](https://www.npmjs.com/package/generator-spring-boot-kafka-consumer)
+
 ## Features
 
 * Quick Spring-Boot Project setup
@@ -21,7 +23,7 @@ This will generate:
 ## Local Development Setup
 
 ```
-> git clone https://github.com/DLaMott/generator-spring-boot-kafa-consumer.git
+> git clone https://github.com/DLaMott/generator-spring-boot-kafka-consumer.git
 > cd generator-spring-boot-kafka-consumer
 > npm install -g yo
 > npm install 
